@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body{
+    background-color: #CDE5B1;
+
+}
+.header-box{
+    background-color: #5A584A;
+    height: 100px;
+    text-align: center;
+    
+    font-size: 24pt;
+    color: white;
+}
+.bady-box{
+    width: 80%;
+    margin: 100px auto;
+    overflow:auto
+}
+.left-box{
+    width: 70%;
+    float: left;
+}
+.right-box{
+    width: 20%;
+    float: right;
+
+}
+footer{
+    clear: both;
+    height: 100px;
+    text-align: center;
+    background-color: #636E87;
+
+}
